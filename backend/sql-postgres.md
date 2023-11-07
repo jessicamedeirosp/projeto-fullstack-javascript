@@ -1,4 +1,4 @@
-# Revisão M03 Pt.2
+# SQL
 
 ### Criando um banco de dados chamado "loja"
 
