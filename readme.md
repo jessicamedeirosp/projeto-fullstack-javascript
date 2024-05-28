@@ -44,23 +44,12 @@ O projeto ainda está sendo desenvolvido e você pode contribuir:
 
 ## Frontend
 
-- HTML
-- [ ] Tags
-- [ ] Self Closing tag
-- [ ] head e body
-- [ ] Tags semântica
-- [ ] Class e Id
+- [x] HTML
 
-- Css
-  - [ ] Class e Id
-  - [ ] Propriedade e Valor
-  - [ ] Pseudo-class
-  - [ ] Pseudo-element
-- DOM
 
-  - [ ] Buscar um Elemento
-  - [ ] Criar um Elemento
-  - [ ] Eventos
+- [ ] Css
+  
+- [ ] DOM
 
 - ReactJS
   - [ ] Componentização
